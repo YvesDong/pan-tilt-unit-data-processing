@@ -1,0 +1,3 @@
+float32 time
+float32 pan_position_filtered
+float32 tilt_position_filtered

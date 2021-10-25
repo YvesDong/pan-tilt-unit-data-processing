@@ -1,0 +1,7 @@
+set(driver_SETUP_PY_SETUP_MODULE "distutils.core")
+set(driver_SETUP_PY_VERSION "0.0.1")
+set(driver_SETUP_PY_SCRIPTS "")
+set(driver_SETUP_PY_PACKAGES "driver")
+set(driver_SETUP_PY_PACKAGE_DIRS "src/driver")
+set(driver_SETUP_PY_MODULES "")
+set(driver_SETUP_PY_MODULE_DIRS "")

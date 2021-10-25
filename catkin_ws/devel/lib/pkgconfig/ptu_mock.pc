@@ -1,0 +1,8 @@
+prefix=/media/rsl-admin/xavier_ssd/yif/internship/catkin_ws/devel
+
+Name: ptu_mock
+Description: Description of ptu_mock
+Version: 0.0.1
+Cflags: -I/media/rsl-admin/xavier_ssd/yif/internship/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

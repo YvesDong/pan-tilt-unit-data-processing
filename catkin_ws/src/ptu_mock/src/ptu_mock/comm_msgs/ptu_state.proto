@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+
+message Degrees {
+  double deg = 1;
+}
+
+
+message AngularVelocity {
+  double deg_sec = 1;
+}
+
+message PtuState {
+  Degrees pan_position = 1;
+  AngularVelocity pan_velocity = 2;
+  Degrees tilt_position = 3;
+  AngularVelocity tilt_velocity = 4;
+
+  uint64 timestamp_ms = 5;
+}

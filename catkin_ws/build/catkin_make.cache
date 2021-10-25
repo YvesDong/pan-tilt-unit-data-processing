@@ -1,0 +1,2 @@
+driver:ptu_mock:seervision:test
+-DCATKIN_DEVEL_PREFIX=/media/rsl-admin/xavier_ssd/yif/internship/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/media/rsl-admin/xavier_ssd/yif/internship/catkin_ws/install -G Unix Makefiles

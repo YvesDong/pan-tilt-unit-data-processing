@@ -1,0 +1,8 @@
+prefix=/media/rsl-admin/xavier_ssd/yif/internship/catkin_ws/install
+
+Name: comm_msgs
+Description: Description of comm_msgs
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lcomm_msgs_proto_cpp
+Requires: 
